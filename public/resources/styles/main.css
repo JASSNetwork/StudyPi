@@ -13,5 +13,15 @@ body {
     font: 50px "Segoe UI Variable";
     text-align: center;
 }
+.logo-container {
+    text-align: center;
+    margin: 20px 0;
+    transform: translateX(1000px); /* Shift the logo 1000px to the right */
+}
+
+.logo {
+    max-width: 150px;
+    height: auto;
+}
 
 
